@@ -80,3 +80,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Developer
 ## Muhammad Bilal
 ## Muhammad Huzaifa Zeb
+## Muhammad Talha
